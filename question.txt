@@ -1,0 +1,30 @@
+MCQS
+
+//Question No #1
+
+What Does HTML Stand For ?
+Hyperlinks and Text Markup Language
+Hyper Text Markup Language
+Hyper Text Making Language
+Hyper Text Mark Language
+1
+
+//Question No #2
+
+What Does CSS Stand For ?
+Colorful StyleSheet
+Creative Style Sheet
+Cascading Style Sheet
+Computer Style Sheet
+2
+
+//Question No #3
+ 
+Which HTML Tag Is Used To Define An Internet Style Sheet ?
+<script>
+<style>
+<html>
+<svg>
+1
+
+//Question No #4 
